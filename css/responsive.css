@@ -1,0 +1,17 @@
+@media(max-width:800px){
+    .fundo{
+        width: 250px;
+        height: 450px;
+    }
+
+    .fundo img{
+        width: 250px;
+    }
+
+    .texto h2{
+        font-size: 15px;
+    }
+    .texto li{
+        font-size: 10px;
+    }
+}
